@@ -1,0 +1,39 @@
+.b-700 {
+    font-weight: 700;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.gap-1 {
+    gap: .5em;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-sm {
+    font-size: 0.75rem;
+}
+
+.gray {
+    color: #{hsl(var(--clr-dark-gray))};
+}
+
+.letter-spacing-1 {
+    letter-spacing: 1.5px;
+}
